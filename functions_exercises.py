@@ -1,4 +1,4 @@
-#1.Define a function named is_two. It should accept one input and return True if the passed input is 
+#1.D#efine a function named is_two. It should accept one input and return True if the passed input is 
 #either the number or the string 2, False otherwise.
 def is_two(n):
     result = n
@@ -82,7 +82,7 @@ for comma in no_commas:
     print(type(number))
 #8 Define a function named get_letter_grade. It should accept a number and return the letter
 #  grade associated with that number (A-F).
-
+def get_letter_grade():
 #9 Define a function named remove_vowels that accepts a string and returns a string with all the vowels 
 # removed.
 
